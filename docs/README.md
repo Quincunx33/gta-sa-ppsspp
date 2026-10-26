@@ -6,7 +6,20 @@ Welcome to the official documentation page for the GTA: San Andreas PPSSPP proje
 
 This project brings the classic PlayStation 2 game, Grand Theft Auto: San Andreas, to a portable PPSSPP setup. It is designed for users who want to enjoy the game on modern devices with a smoother emulator-based experience.
 
-The repository includes the project presentation, download links, screenshots, and supporting documentation for installation and usage.
+The repository includes the project presentation, download links, screenshots, gameplay video, and supporting documentation for installation and usage.
+
+## Gameplay Video
+
+Watch the gameplay preview below:
+
+[🎬 Watch Gameplay Video](https://github.com/user-attachments/assets/3bcd9007-6b26-46f4-b51b-c18dfc5c1e31)
+
+## Screenshots
+
+<p align="center">
+  <img src="../media/ppsspp-library.jpg" alt="PPSSPP game library" width="48%" />
+  <img src="../media/gta-san-andreas-gameplay.jpg" alt="GTA: San Andreas gameplay" width="48%" />
+</p>
 
 ## Features
 
@@ -30,6 +43,12 @@ Before starting, make sure your device meets the basic requirements:
 ## Download
 
 You can download the game package from the main project page or the release link provided in the repository README.
+
+<p align="center">
+  <a href="https://www.mediafire.com/file/fwfurwcmfohyzvg/Gtasa.7z/file" target="_blank">
+    <img src="https://img.shields.io/badge/⬇️_Download-GTA%20San%20Andreas-ff3d00?style=for-the-badge&logo=download&logoColor=white" alt="Download GTA: San Andreas" />
+  </a>
+</p>
 
 - Main repository: https://github.com/Quincunx33/gta-sa-ppsspp
 - MediaFire download link: https://www.mediafire.com/file/fwfurwcmfohyzvg/Gtasa.7z/file
@@ -101,7 +120,7 @@ This repository contains:
 
 - `README.md` — main project landing page
 - `docs/README.md` — documentation and usage guide
-- media assets and screenshots
+- `media/` — screenshots and visual assets
 - download and project presentation content
 
 ## Support
