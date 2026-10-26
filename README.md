@@ -4,7 +4,9 @@ PPSSPP-এ GTA: San Andreas চালানোর স্ক্রিনশট �
 
 ## ভিডিও
 
-অডিওসহ MP4: [ভিডিও খুলুন](https://github.com/Quincunx33/gta-sa-ppsspp/blob/main/media/screen-recording.mp4)। এটি GitHub-এর file page খোলে; README-র ভেতর player হিসেবে চলে না। inline player-এর জন্য GitHub `user-attachments` লিংক দরকার।
+নিচের GitHub attachment থেকে ভিডিওটি README-তেই চালানো যাবে:
+
+https://github.com/user-attachments/assets/3bcd9007-6b26-46f4-b51b-c18dfc5c1e31
 
 
 ## মিডিয়া
