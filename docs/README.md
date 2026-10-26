@@ -12,13 +12,16 @@ The repository includes the project presentation, download links, screenshots, g
 
 Watch the gameplay preview below:
 
-[🎬 Watch Gameplay Video](https://github.com/user-attachments/assets/3bcd9007-6b26-46f4-b51b-c18dfc5c1e31)
+<video width="100%" controls>
+  <source src="https://raw.githubusercontent.com/Quincunx33/gta-sa-ppsspp/main/media/screen-recording.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
 
 ## Screenshots
 
 <p align="center">
-  <img src="../media/ppsspp-library.jpg" alt="PPSSPP game library" width="48%" />
-  <img src="../media/gta-san-andreas-gameplay.jpg" alt="GTA: San Andreas gameplay" width="48%" />
+  <img src="https://raw.githubusercontent.com/Quincunx33/gta-sa-ppsspp/main/media/ppsspp-library.jpg" alt="PPSSPP game library" width="48%" />
+  <img src="https://raw.githubusercontent.com/Quincunx33/gta-sa-ppsspp/main/media/gta-san-andreas-gameplay.jpg" alt="GTA: San Andreas gameplay" width="48%" />
 </p>
 
 ## Features
