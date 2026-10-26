@@ -1,13 +1,16 @@
-# GTA: San Andreas
+<div align="center">
+  <h1>GRAND THEFT AUTO: SAN ANDREAS</h1>
+  <p><strong>PS2 CLASSIC · PSP READY</strong></p>
+  <p><em>Take San Andreas on the go with PPSSPP.</em></p>
+</div>
 
-**PS2 Classic · PSP-ready via PPSSPP**
-
-## Gameplay
+## GAMEPLAY
 
 https://github.com/user-attachments/assets/3bcd9007-6b26-46f4-b51b-c18dfc5c1e31
 
-## Screenshots
+## SCREENSHOTS
 
-![PPSSPP Game Library](media/ppsspp-library.jpg)
-
-![GTA: San Andreas Gameplay](media/gta-san-andreas-gameplay.jpg)
+<p align="center">
+  <img src="media/ppsspp-library.jpg" alt="PPSSPP game library" width="48%" />
+  <img src="media/gta-san-andreas-gameplay.jpg" alt="GTA: San Andreas gameplay" width="48%" />
+</p>
