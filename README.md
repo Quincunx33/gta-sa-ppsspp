@@ -1,7 +1,7 @@
 <div align="center">
   <h1>GRAND THEFT AUTO: SAN ANDREAS</h1>
   <p><strong>PS2 CLASSIC · PSP READY</strong></p>
-  <p><em>Take San Andreas on the go with PPSSPP.</em></p>
+  <p><em>Emulator: PPSSPP · Take San Andreas on the go.</em></p>
 </div>
 
 ## GAMEPLAY
