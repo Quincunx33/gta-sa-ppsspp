@@ -4,7 +4,7 @@ PPSSPP-এ GTA: San Andreas চালানোর স্ক্রিনশট �
 
 ## README-তে চলমান ভিডিও প্রিভিউ
 
-নিচের GIF-টি পুরো ১ মিনিট ৩৭ সেকেন্ডের রেকর্ডিং দেখায় এবং স্বয়ংক্রিয়ভাবে লুপ হয়। GIF-এ অডিও থাকে না। অডিওসহ MP4 খুলতে প্রিভিউতে ক্লিক করুন অথবা [MP4 ভিডিওটি খুলুন](media/screen-recording.mp4)।
+নিচের GIF-টি পুরো ১ মিনিট ৩৭ সেকেন্ডের রেকর্ডিং দেখায় এবং স্বয়ংক্রিয়ভাবে লুপ হয়। GIF-এ অডিও থাকে না। অডিওসহ MP4 খুলতে প্রিভিউতে ক্লিক করুন অথবা [MP4 ভিডিওটি খুলুন](https://github.com/Quincunx33/gta-sa-ppsspp/blob/main/media/screen-recording.mp4)। এই repo link-টি GitHub file page খোলে; README-র ভেতর MP4 player চালায় না।
 
 [![GTA SA PPSSPP ভিডিও প্রিভিউ](media/screen-recording-preview.gif)](media/screen-recording.mp4)
 
@@ -12,7 +12,7 @@ PPSSPP-এ GTA: San Andreas চালানোর স্ক্রিনশট �
 
 | ফাইল | বিবরণ |
 |---|---|
-| [`media/screen-recording.mp4`](media/screen-recording.mp4) | H.264/AAC MP4 ভিডিও, প্রায় ১ মিনিট ৩৭ সেকেন্ড |
+| [MP4 ভিডিও](https://github.com/Quincunx33/gta-sa-ppsspp/blob/main/media/screen-recording.mp4) | H.264/AAC MP4 ভিডিও, প্রায় ১ মিনিট ৩৭ সেকেন্ড; GitHub file page থেকে খুলবে |
 | [`media/screen-recording-preview.gif`](media/screen-recording-preview.gif) | README-তে চলার জন্য কম রেজোলিউশনের, silent animated preview |
 | [`media/ppsspp-library.jpg`](media/ppsspp-library.jpg) | PPSSPP গেম লাইব্রেরির ছবি |
 | [`media/gta-san-andreas-gameplay.jpg`](media/gta-san-andreas-gameplay.jpg) | GTA: San Andreas গেমপ্লের ছবি |
